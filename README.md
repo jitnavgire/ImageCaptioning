@@ -1,2 +1,2 @@
 # ImageCaptioning
-Image caption generator using deep learning Exception imagenet and LSTM model
+Image caption generator using deep learning Xception imagenet and LSTM model
