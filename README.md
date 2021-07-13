@@ -25,3 +25,6 @@ Generating the vocabulary which consists only unique words and assign unique num
 Encodes the captions with the corresponding number.
 
         Image Preprocessing
+![feature](https://user-images.githubusercontent.com/64503158/125403625-59da1080-e3d3-11eb-8ccc-b6e28183c3c2.PNG)
+
+        Methodology
